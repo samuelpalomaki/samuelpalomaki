@@ -1,8 +1,8 @@
 Hello,
 
-Im Samuel and currently working as Junior System Specialist and always interested about teaching myself all the time no matter what it takes.
+Im Samuel and currently working as System Specialist and always interested about teaching myself all the time no matter what it takes.
 
-part of my expertise:
+Softwares that are common to me:
 
 - Office 365 
 - Azure
